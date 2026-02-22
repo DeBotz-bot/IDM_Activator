@@ -57,91 +57,19 @@ Library Python yang digunakan:
 -   winreg
 -   threading
 
-Install dependency:
-
-``` bash
-pip install requests pillow
-```
-
-------------------------------------------------------------------------
-
-## ▶️ Cara Menjalankan
-
-1.  Clone repository
-
-``` bash
-git clone https://github.com/username_anda/IDM-Activator.git
-```
-
-2.  Masuk ke folder project
-
-``` bash
-cd IDM-Activator
-```
-
-3.  Jalankan aplikasi
-
-``` bash
-python main.py
-```
-
-------------------------------------------------------------------------
-
-## 📥 Build ke EXE
-
-Untuk membuat file executable (.exe) gunakan PyInstaller.
-
-Install PyInstaller:
-
-``` bash
-pip install pyinstaller
-```
-
-Build aplikasi:
-
-``` bash
-pyinstaller --onefile --noconsole --icon=app.ico main.py
-```
-
-File hasil build akan muncul di folder:
-
-    dist/
-
 ------------------------------------------------------------------------
 
 ## 🔄 Sistem Update
 
-Aplikasi menggunakan sistem update otomatis melalui file:
+Aplikasi menggunakan sistem update otomati
 
-    version.json
-
-Contoh isi file:
-
-``` json
-{
-  "version": "6.42.B62",
-  "notes": "Bug fix and improvement",
-  "download_url": "https://github.com/username_anda/IDM-Activator/releases/download/latest/IDM_Activator_Pro.exe"
-}
-```
-
-------------------------------------------------------------------------
-
-## 📂 Struktur Project
-
-    IDM-Activator/
-    │
-    ├── main.py
-    ├── app.ico
-    ├── version.json
-    ├── README.md
-    └── assets/
+    Nanti bisa Check Update
 
 ------------------------------------------------------------------------
 
 ## ⚠️ Disclaimer
 
-Project ini dibuat untuk tujuan edukasi dan pembelajaran pemrograman
+Project ini dibuat untuk melakukan aktivasi IDM dengan pemrograman
 Python GUI. Developer tidak bertanggung jawab atas penggunaan software
 ini yang melanggar lisensi perangkat lunak pihak ketiga.
 
