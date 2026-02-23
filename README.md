@@ -1,12 +1,17 @@
-# 🚀 IDM Activator Pro
+### 🚀 IDM Activator Debotz
 
-**IDM Activator Pro** adalah aplikasi berbasis Python dengan antarmuka
+**IDM Activator Debotz** adalah aplikasi berbasis Python dengan antarmuka
 GUI modern yang membantu proses aktivasi Internet Download Manager
-secara otomatis melalui konfigurasi registry Windows.
+secara otomatis.
 
 Aplikasi ini memiliki tampilan modern, sistem pengecekan update
 otomatis, serta beberapa fitur tambahan untuk mempermudah pengguna dalam
 mengelola IDM.
+
+------------------------------------------------------------------------
+
+## Download
+IDM Acktivator Debotz dapat diunduh dari [Download](https://github.com/DeBotz-bot/IDM_Activator/releases/latest/download/IDM_Activator_Debotz.exe) dan jalankan.
 
 ------------------------------------------------------------------------
 
