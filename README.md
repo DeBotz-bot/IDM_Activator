@@ -14,6 +14,10 @@ mengelola IDM.
 IDM Acktivator Debotz dapat diunduh dari [Download](https://github.com/DeBotz-bot/IDM_Activator/releases/latest/download/IDM_Activator_Debotz.exe) dan jalankan.
 
 ------------------------------------------------------------------------
+## 🖼️ Preview
+![Preview](https://raw.githubusercontent.com/DeBotz-bot/IDM_Activator/master/image/preview.png)
+
+------------------------------------------------------------------------
 
 ## ✨ Fitur Utama
 
