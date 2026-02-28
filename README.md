@@ -15,7 +15,7 @@ IDM Acktivator Debotz dapat diunduh dari [Download](https://github.com/DeBotz-bo
 
 ------------------------------------------------------------------------
 ## 🖼️ Preview
-![Preview](https://raw.githubusercontent.com/DeBotz-bot/IDM_Activator/master/image/preview.png)
+![Preview](https://raw.githubusercontent.com/DeBotz-bot/IDM_Activator/master/image/image.png)
 
 ------------------------------------------------------------------------
 
