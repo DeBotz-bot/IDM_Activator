@@ -57,15 +57,6 @@ Sistem yang didukung:
 -   Windows 7 / 8 / 10 / 11
 -   Python 3.8+
 
-Library Python yang digunakan:
-
--   tkinter
--   requests
--   Pillow (opsional)
--   subprocess
--   winreg
--   threading
-
 ------------------------------------------------------------------------
 
 ## 🔄 Sistem Update
@@ -78,15 +69,14 @@ Aplikasi menggunakan sistem update otomati
 
 ## ⚠️ Disclaimer
 
-Project ini dibuat untuk melakukan aktivasi IDM dengan pemrograman
-Python GUI. Developer tidak bertanggung jawab atas penggunaan software
+Project ini dibuat untuk melakukan aktivasi IDM. Developer tidak bertanggung jawab atas penggunaan software
 ini yang melanggar lisensi perangkat lunak pihak ketiga.
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
-Debotz V1
+Debotz V2
 
 ------------------------------------------------------------------------
 
