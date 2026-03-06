@@ -11,16 +11,16 @@ mengelola IDM.
 
 ------------------------------------------------------------------------
 
-## ⬇️ Download
+### ⬇️ Download
 IDM Acktivator Debotz dapat diunduh dari [Download](https://github.com/DeBotz-bot/IDM_Activator/releases/latest/download/IDM_Activator_Debotz.exe) dan jalankan.
 
 ------------------------------------------------------------------------
-## 🖼️ Preview
+### 🖼️ Preview
 ![Preview](https://raw.githubusercontent.com/DeBotz-bot/IDM_Activator/master/image/image.png)
 
 ------------------------------------------------------------------------
 
-## ✨ Fitur Utama
+### ✨ Fitur Utama
 
 -   ⚡ Aktivasi otomatis IDM
 -   🛑 Menutup proses IDM sebelum aktivasi
@@ -33,7 +33,7 @@ IDM Acktivator Debotz dapat diunduh dari [Download](https://github.com/DeBotz-bo
 
 ------------------------------------------------------------------------
 
-## 🖥️ Tampilan Aplikasi
+### 🖥️ Tampilan Aplikasi
 
 Aplikasi memiliki beberapa panel utama:
 
@@ -51,7 +51,7 @@ Menu utama yang tersedia:
 
 ------------------------------------------------------------------------
 
-## 📦 Requirements
+### 📦 Requirements
 
 Sistem yang didukung:
 
@@ -60,7 +60,7 @@ Sistem yang didukung:
 
 ------------------------------------------------------------------------
 
-## 🔄 Sistem Update
+### 🔄 Sistem Update
 
 Aplikasi menggunakan sistem update otomatis
 
@@ -68,20 +68,20 @@ Aplikasi menggunakan sistem update otomatis
 
 ------------------------------------------------------------------------
 
-## ⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 Project ini dibuat untuk melakukan aktivasi IDM. Developer tidak bertanggung jawab atas penggunaan software
 ini yang melanggar lisensi perangkat lunak pihak ketiga.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 Debotz V2
 
 ------------------------------------------------------------------------
 
-## ⭐ Support
+### ⭐ Support
 
 Jika project ini membantu kamu, jangan lupa memberikan ⭐ pada
 repository GitHub.
