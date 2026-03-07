@@ -1,7 +1,7 @@
 {
     "version": "6.42.B62",
     "notes": "✓ Pembaruan Versi IDM 6.42. Build 62\n✓ Versi APP 2.30\n✓ Perbaikan bug",
-    "download_url": "https://github.com/DeBotz-bot/IDM_Activator/releases/latest62/download/IDM_Activator_Debotz.exe",
+    "download_url": "https://github.com/DeBotz-bot/IDM_Activator/releases/latest/download/IDM_Activator_Debotz.exe",
     "min_version": "2.30",
     "release_date": "2026-03-06",
     "requirements": {
